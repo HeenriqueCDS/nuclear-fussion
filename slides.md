@@ -1,6 +1,6 @@
 ---
 theme: seriph
-background: /public/cover.jpg
+background: /cover.jpg
 class: text-center
 highlighter: shiki
 lineNumbers: false
@@ -24,7 +24,7 @@ mdc: true
 
 ---
 layout: cover
-background: /public/1.webp
+background: /1.webp
 class: text-center
 ---
 
@@ -50,7 +50,7 @@ Nice try but that's not what we're talking about today. While solar energy is a 
 
 ---
 layout: cover
-background: /public/2.webp
+background: /2.webp
 class: text-center
 ---
 
@@ -78,7 +78,7 @@ Today, we're talking about something different—nuclear fusion.
 
 ---
 layout: cover
-background: /public/3.png
+background: /3.png
 class: text-center
 ---
 
@@ -99,7 +99,7 @@ Sounds like a perfect solution, right? No nuclear waste, no explosion risks. So 
 
 ---
 layout: cover
-background: /public/4.webp
+background: /4.webp
 class: text-center
 ---
 
@@ -130,7 +130,7 @@ But here's the exciting part…
 
 ---
 layout: cover
-background: /public/5.webp
+background: /5.webp
 class: text-center
 ---
 
@@ -159,7 +159,7 @@ This milestone proves that self-sustaining nuclear fusion is possible. While we'
 
 ---
 layout: cover
-background: /public/6.webp
+background: /6.webp
 class: text-center
 ---
 
